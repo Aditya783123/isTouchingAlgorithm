@@ -1,2 +1,2 @@
-# isTouchingAlgorithm
-Writing logic for isTouching command
+# p5.play-boilerplate
+Boiler plate for p5.play
